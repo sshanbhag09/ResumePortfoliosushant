@@ -1,0 +1,133 @@
+.navbar{
+    color: #ffffff !important;
+    text-transform: uppercase;
+    font-size: 1rem;
+    opacity: 0.8;
+}
+.navbar:hover{
+    opacity:1;
+}
+.nav-item{
+    margin-right: 1rem;
+}
+.nav-link{
+    color: #ffffff !important;
+    padding:1rem;
+    
+}
+.nav-link:hover{
+    font-size: 1.2rem;
+    color:#1ebbaf !important;
+}
+.background{
+    margin: 1.5rem;
+    text-align: center;
+
+}
+.background .image-fluid{
+    width:25%
+}
+.about-ed{
+    position: relative;
+    
+}
+.containernew{
+    width:80%;
+    margin:auto;
+    float:left;
+}
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow: scroll;
+    font-family: 'Poppins', sans-serif;
+}
+.heading{
+    position:relative;
+    
+    text-align:center;
+}
+.heading p{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform:uppercase;
+    font-size: 0.8em;
+}
+.heading h3{
+    font-family: 'Birthstone', cursive;
+    font-weight: 600;
+    font-size: 2.3rem;
+}
+#about .cat-1{
+    
+    background-color: #1ebbaf !important;
+    border-radius:10px;
+    width:95%;
+    margin:auto;
+}
+#about .cat-2{
+    
+    background-color: #dab244 !important;
+    border-radius:10px;
+    width:95%;
+    margin:auto;
+}
+#about .cat-3{
+    
+    background-color: #1ac3da !important;
+    border-radius:10px;
+    width:95%;
+    margin:auto;
+}
+.education{
+    padding-top: 3rem;
+    margin-top:20px;
+    font-size: 1rem;
+}
+#about .row .col{
+    padding:12px;
+    margin-right: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+#about img{
+    width:70%;
+    position: relative;
+    top:1rem;
+    left:3rem;
+}
+#about-ed{
+
+}
+.education h4{
+    font-size: 1rem;
+}
+.education h3{
+    font-size: 1.5rem;
+}
+.certificate li{
+    list-style: none;
+}
+.certificate h3{
+    padding: 0.8rem;
+    margin-top: 1rem;
+}
+#shift{
+    margin-top: 2rem;;
+}
+.certificate a{
+    color: darkgoldenrod;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.certificate a:hover{
+    font-size: 2rem;
+    color:#ffffff
+}
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    opacity:0.8;
+    text-align:center;
+    
+}
